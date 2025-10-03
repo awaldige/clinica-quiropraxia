@@ -33,7 +33,7 @@ O site está hospedado no Vercel:
 https://clinica-quiropraxia.vercel.app/
 
 📸 Prévia
-(adicione aqui uma imagem ou GIF mostrando o site rodando, pode ser um print da home)
+
 
 🛠️ Tecnologias utilizadas
 HTML5
