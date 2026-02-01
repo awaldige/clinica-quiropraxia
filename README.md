@@ -12,14 +12,13 @@ O projeto foi construído utilizando **HTML, CSS e JavaScript puro**, garantindo
 ---
 
 ## 📸 Prévia
-![IMG_1236](https://github.com/user-attachments/assets/c519910e-5388-444a-b1c9-ada62c529d88)
-![IMG_1241](https://github.com/user-attachments/assets/f1bf4726-d89c-44b7-9212-13f8b7449a93)
-![IMG_1243](https://github.com/user-attachments/assets/6da6d7ab-a0e0-4c7b-923f-3bb57a0efc37)
-![IMG_1239](https://github.com/user-attachments/assets/1a41d59d-4467-4d42-911c-03121b3b24d2)
-![IMG_1244](https://github.com/user-attachments/assets/f5288fc1-86ae-4329-974b-35d762f11a8c)
-![IMG_1245](https://github.com/user-attachments/assets/485e5b1d-f9bb-49db-bff6-ec6f704ae7f6)
-![IMG_1246](https://github.com/user-attachments/assets/8df1c52f-8cea-40d0-a072-c426e48649f0)
-
+![IMG_1236](https://github.com/user-attachments/assets/6b87ef90-9d86-4901-b4b1-548323239f5f)
+![IMG_1238](https://github.com/user-attachments/assets/7e0a3824-7c14-4402-ba50-2b2a48396aa0)
+![IMG_1242](https://github.com/user-attachments/assets/21eef8bd-6416-4841-a9e7-2d0fd6e969c9)
+![IMG_1243](https://github.com/user-attachments/assets/ae622e78-9d79-4d97-bab4-0748acd38777)
+![IMG_1244](https://github.com/user-attachments/assets/80500bc4-8250-4fd7-8152-3bc1bd706358)
+![IMG_1245](https://github.com/user-attachments/assets/268bb80b-25c1-444b-a748-c4e1a3fed827)
+![IMG_1246](https://github.com/user-attachments/assets/8141ffe6-43bf-4396-93a4-8154967a5093)
 
 ---
 
