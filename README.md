@@ -13,7 +13,7 @@ https://clinica-quiropraxia.vercel.app/
 
 ---
 
-##✨ Funcionalidades
+## ✨ Funcionalidades
 
 - 🏥 Apresentação da clínica
 - 🩺 Informações sobre tratamentos e serviços
@@ -45,7 +45,7 @@ O projeto foi desenvolvido para proporcionar uma boa experiência em diferentes 
 
 ---
 
-##📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
 clinica-quiropraxia/
 │
@@ -57,7 +57,7 @@ clinica-quiropraxia/
 
 ---
 
-##🚀 Como Executar Localmente
+## 🚀 Como Executar Localmente
 
 1. Clone o repositório
 git clone https://github.com/awaldige/clinica-quiropraxia.git
@@ -71,7 +71,7 @@ Por ser uma aplicação frontend estática, basta abrir o arquivo:
 index.html 
 Também é possível utilizar uma extensão como Live Server no VS Code para executar o projeto durante o desenvolvimento.
 
-##🧠 Destaques Técnicos
+## 🧠 Destaques Técnicos
 
 - Desenvolvimento frontend sem frameworks
 - Estrutura baseada em HTML5 semântico
@@ -81,7 +81,7 @@ Também é possível utilizar uma extensão como Live Server no VS Code para exe
 - Experiência adaptada para dispositivos móveis
 - Elementos visuais e multimídia integrados à página
   
-##🔮 Possíveis Melhorias Futuras
+## 🔮 Possíveis Melhorias Futuras
 
 - Integração com sistema real de agendamento
 - Integração com WhatsApp
@@ -91,8 +91,6 @@ Também é possível utilizar uma extensão como Live Server no VS Code para exe
 - Otimização adicional de imagens e desempenho
  Painel administrativo para gerenciamento de conteúdo
 
-## 🌐 Acesse o Projeto Online
-🔗 https://clinica-quiropraxia.vercel.app/
 
 ---
 
@@ -109,16 +107,16 @@ Também é possível utilizar uma extensão como Live Server no VS Code para exe
 
 
 
-##👨‍💻 Autor
+## 👨‍💻 Autor
 
 André Waldige
 
 Desenvolvedor Full Stack — AW TECHNOLOGY
 
-##🔗 GitHub:
+## 🔗 GitHub:
 https://github.com/awaldige
 
-##📄 Licença
+## 📄 Licença
 
 Projeto desenvolvido para portfólio profissional e demonstração de habilidades em desenvolvimento web.
 
