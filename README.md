@@ -1,127 +1,102 @@
-# 🏥 Clínica de Quiropraxia
+# Clínica de Quiropraxia — AW TECHNOLOGY
 
-Site institucional responsivo desenvolvido para uma clínica de quiropraxia, com foco em apresentação dos serviços, informações sobre tratamentos, experiência visual e facilidade de contato com pacientes.
+Projeto demonstrativo de um site institucional para uma clínica fictícia de quiropraxia, desenvolvido como parte do portfólio de **AW TECHNOLOGY**.
 
-O projeto foi desenvolvido com **HTML5, CSS3 e JavaScript Vanilla**, priorizando responsividade, navegação intuitiva e uma apresentação profissional para dispositivos desktop e mobile.
+O projeto apresenta uma experiência moderna, elegante e responsiva, com informações sobre quiropraxia, estrutura, tratamentos, galeria de imagens e uma funcionalidade demonstrativa de agendamento.
 
----
+## ✨ Demonstração
 
-## 🌐 Projeto Online
+**Projeto:** Clínica de Quiropraxia  
+**Desenvolvedor:** André Waldige — AW TECHNOLOGY  
+**Repositório:** https://github.com/awaldige/clinica-quiropraxia
 
-🔗 **Acesse:**
-https://clinica-quiropraxia.vercel.app/
+## 🎯 Objetivo
 
----
+Demonstrar a criação de um site institucional profissional para a área de saúde, aplicando conceitos de desenvolvimento web, design responsivo, acessibilidade, organização de conteúdo e interatividade com JavaScript.
 
-## ✨ Funcionalidades
+## 🚀 Funcionalidades
 
-- 🏥 Apresentação da clínica
-- 🩺 Informações sobre tratamentos e serviços
-- 📅 Formulário/modal de agendamento
-- 🖼️ Galeria de imagens
-- 🎥 Vídeos explicativos
-- 📍 Informações de localização e contato
-- 📱 Layout responsivo
-- 🧭 Navegação por seções
-- 🎨 Interface moderna e profissional
-- ⚡ Interações desenvolvidas com JavaScript Vanilla
+- Página inicial com apresentação institucional.
+- Seção sobre a clínica e seus diferenciais.
+- Apresentação da estrutura e dos ambientes.
+- Galeria de imagens.
+- Seção demonstrativa de equipe.
+- Apresentação de tratamentos e informações educativas.
+- Área de vídeos.
+- Seção de informações e contato demonstrativos.
+- Menu de navegação responsivo.
+- Modal de agendamento demonstrativo.
+- Seleção de data e horário.
+- Validação dos campos e restrição de datas anteriores.
+- Mensagem de confirmação ilustrativa.
+- Navegação adaptada para dispositivos móveis.
 
-## 🛠️ Tecnologias Utilizadas
+## 🎨 Design e experiência
 
-* **HTML5** — Estrutura semântica das páginas
-* **CSS3** — Estilização, layout e responsividade
-* **JavaScript** — Interações e funcionalidades da interface
+O projeto utiliza uma identidade visual com tons de azul-marinho, azul-petróleo, branco, cinza-claro e detalhes dourados.
 
----
+O layout foi desenvolvido para oferecer uma navegação organizada, agradável e consistente em diferentes tamanhos de tela.
+
+## 🛠️ Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript Vanilla
 
 ## 📱 Responsividade
 
-O projeto foi desenvolvido para proporcionar uma boa experiência em diferentes tamanhos de tela:
+O site foi preparado para diferentes dispositivos:
 
-* 💻 Desktop
-* 💻 Notebook
-* 📱 Smartphones
-* 📲 Tablets
+- Computadores e notebooks.
+- Tablets.
+- Smartphones.
 
----
+Foram realizados testes de navegação e funcionamento do agendamento em desktop e dispositivos móveis.
 
-## 📂 Estrutura do Projeto
+## 📁 Estrutura do projeto
 
+```text
 clinica-quiropraxia/
 │
 ├── index.html
 ├── style.css
 ├── script.js
-├── images/
-└── README.md
+├── README.md
+│
+└── imagens/
+    ├── clinica.png
+    ├── imagem de fundo.png
+    ├── imagem recepção.png
+    └── demais imagens do projeto
+```
+
+## 📅 Agendamento demonstrativo
+
+O projeto possui uma interface interativa de agendamento desenvolvida com JavaScript.
+
+O usuário pode selecionar uma data e um horário e visualizar uma mensagem de confirmação ilustrativa.
+
+**Importante:** essa funcionalidade não realiza agendamentos reais, não envia informações para servidores e não armazena dados pessoais.
+
+## 🔒 Aviso sobre o projeto
+
+Este é um projeto fictício, desenvolvido exclusivamente para fins de estudo, demonstração técnica e apresentação de portfólio.
+
+A clínica, os profissionais, as informações de contato e os demais dados apresentados são demonstrativos.
+
+O site não representa um estabelecimento de saúde real e não oferece consultas, diagnósticos, tratamentos ou atendimentos.
+
+## 👨‍💻 Desenvolvedor
+
+**André Waldige — AW TECHNOLOGY**
+
+Desenvolvimento de soluções digitais, sites institucionais, sistemas web, ERPs e automações.
+
+- GitHub: https://github.com/awaldige
+- Portfólio: https://andre-waldige.vercel.app/
 
 ---
 
-## 🚀 Como Executar Localmente
+**AW TECHNOLOGY — Tecnologia e soluções digitais sob medida.**
 
-1. Clone o repositório
-git clone https://github.com/awaldige/clinica-quiropraxia.git
-
-3. Acesse a pasta
-cd clinica-quiropraxia
-
-4. Execute o projeto
-   
-Por ser uma aplicação frontend estática, basta abrir o arquivo:
-index.html 
-Também é possível utilizar uma extensão como Live Server no VS Code para executar o projeto durante o desenvolvimento.
-
-## 🧠 Destaques Técnicos
-
-- Desenvolvimento frontend sem frameworks
-- Estrutura baseada em HTML5 semântico
-- CSS3 para criação do layout responsivo
-- JavaScript Vanilla para interações da interface
-- Organização de conteúdo por seções
-- Experiência adaptada para dispositivos móveis
-- Elementos visuais e multimídia integrados à página
-  
-## 🔮 Possíveis Melhorias Futuras
-
-- Integração com sistema real de agendamento
-- Integração com WhatsApp
-- Otimização avançada de SEO
-- Implementação de dados estruturados Schema.org
-- Formulário conectado a serviço de envio de mensagens
-- Otimização adicional de imagens e desempenho
- Painel administrativo para gerenciamento de conteúdo
-
-
----
-
-## 📸 Prévia
-![Captura de tela 2026-04-02 153632](https://github.com/user-attachments/assets/6adb8fea-b252-41d5-9edf-845c6a919611)
-![Captura de tela 2026-04-02 153922](https://github.com/user-attachments/assets/b287216e-ad0a-4472-9204-a0ae1fe5a0de)
-![Captura de tela 2026-04-02 153845](https://github.com/user-attachments/assets/8fa55811-e91f-4d70-b467-04150a08066b)
-![Captura de tela 2026-04-02 153814](https://github.com/user-attachments/assets/e775e415-9dd9-4b3b-9a24-439bc2809f09)
-![Captura de tela 2026-04-02 153749](https://github.com/user-attachments/assets/4bb489ae-0dd5-4e5e-88d5-2d48d53ad778)
-![Captura de tela 2026-04-02 153659](https://github.com/user-attachments/assets/5da5284f-4798-4d9b-8d8f-7c5c15035825)
-
-
----
-
-
-
-## 👨‍💻 Autor
-
-André Waldige
-
-Desenvolvedor Full Stack — AW TECHNOLOGY
-
-## 🔗 GitHub:
-https://github.com/awaldige
-
-## 📄 Licença
-
-Projeto desenvolvido para portfólio profissional e demonstração de habilidades em desenvolvimento web.
-
-
-
-
-
-
+© 2026 André Waldige. Projeto desenvolvido para fins demonstrativos.
